@@ -1,0 +1,5 @@
+{
+  "name": "ClashCoach AI",
+  "description": "An AI-powered Clash of Clans tactical assistant that analyzes army and base images to generate optimized attack plans.",
+  "requestFramePermissions": []
+}
