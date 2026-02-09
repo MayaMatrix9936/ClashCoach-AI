@@ -36,5 +36,5 @@ Gemini 3’s multimodal reasoning and structured response support make this poss
 ## Devpost Submission Checklist
 - **Project page:** https://gemini3.devpost.com/
 - **Public demo link:** https://clash-coach-ai.vercel.app/
-- **Public code repo:** https://github.com/MayaMatrix9936/ClashCoachAI
+- **Public code repo:** https://github.com/MayaMatrix9936/ClashCoach-AI
 - **Demo video:** ~3 minutes
